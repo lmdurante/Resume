@@ -48,9 +48,7 @@ Leads development of creative strategy and organizational vision for a 180-attor
     <li><strong>Promoted to Senior Graphic Designer December 2019</strong> after serving as Graphic Designer for two years.</li>
  </ul>
 </details>
-
-
-
+<br>
 
 
 ### Design.Run.Amok, Seattle, WA • Freelance Designer • *(01/2015) - Present*
@@ -66,9 +64,7 @@ Spearheaded the development of marketing processes and established design standa
      <li>Produced branding plan and guidelines with unique specialty identity within and in adherence to existing corporate branding that included team brochure, specialty brochures, logos, evergreen graphics and infographics, RFP PowerPoint template, and social media templates.</li>
   </ul>
 </details>
-
-
-
+<br>
 
 
 ### Retail Insite, San Diego, CA • Senior Graphic Designer • Contract • *(08/2015) - (02/2016)*
@@ -84,9 +80,7 @@ Worked vigorously to deliver top notch marketing collateral for over 80 real est
      <li>Conducted trainings on the Adobe Creative Suite and created training sheets for staff on InDesign, printing production, email blasts, and interactive files</li>
   </ul>
 </details>
-
-
-
+<br>
 
 
 ## EDUCATION & CREDENTIALS

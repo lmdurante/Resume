@@ -7,7 +7,7 @@ Passionate and curious senior graphic designer with 10 years of experience creat
 
 <dl>
    <dt>SKILLS</dt>
-   <dd>Color Theory | Graphic Design | Rapid Prototyping | Typography | Usability Testing | Visual Design </dd>
+   <dd>Color Theory | Graphic Design | Rapid Prototyping | Typography | Usability Testing | Visual Design</dd>
   
    <dt>TOOLS</dt>
    <dd>InDesign | Illustrator | Photoshop | InVision | Sketch | After Effects | Marketo | Concep Send | Bannersnack</dd>

@@ -97,9 +97,8 @@ Worked vigorously to deliver top-notch marketing collateral for 80+ real estate 
   <dd>Brunel University – West London, England (exchange Program)</dd>
 </dl>
 
-
 ## AWARD
 <dl>
-  <dt>Bronze ADDY • 2015</dt>
-  <dd>App Design - Student Category</dd>
-</dl>
+   <dt>Bronze ADDY • 2015 </dt>
+   <dd>App Design - Student Category</dd>
+   </dl>

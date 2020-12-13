@@ -43,7 +43,7 @@ Leads development of creative strategy and organizational vision for a 180-attor
       <li>PowerPoint trainings and internal intranet PowerPoint resource center</li>
       <li>Templatized RFPS and pitches</li>
       <li>Marketo emails, landing pages, and forms</li>
-      <li>Website team practice pages and attorney profile pages Word and PDF outputs</li>
+      <li>Website team practice pages and attorney profile pages Word and PDF outputs.</li>
     </ul>
     <li><strong>Promoted to Senior Graphic Designer December 2019</strong> after serving as Graphic Designer for two years.</li>
  </ul>

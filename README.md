@@ -12,7 +12,7 @@ Passionate and curious senior graphic designer with 10 years of experience creat
    <dt>TOOLS</dt>
    <dd>InDesign | Illustrator | Photoshop | InVision | Sketch | After Effects | Marketo | Concep Send | Bannersnack</dd>
  </dl>
-
+<br>
 
 ## EXPERIENCE
 
@@ -96,7 +96,7 @@ Worked vigorously to deliver top-notch marketing collateral for 80+ real estate 
   <dt>Industrial Design & Technology • 2008 - 2009</dt>
   <dd>Brunel University – West London, England (exchange Program)</dd>
 </dl>
-
+<br>
 
 ## AWARD
 <dl>

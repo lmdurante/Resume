@@ -50,6 +50,9 @@ Leads development of creative strategy and organizational vision for a 180-attor
 </details>
 <br>
 
+
+
+
 ### Design.Run.Amok, Seattle, WA • Freelance Designer • *(01/2015) - Present*
 Finds creative, clean, and complete design solutions for clients to grow their product, business, and ideas. This work includes but isn’t limited to, branding, brochures, offering memorandums, presentations and RFPs, social media, and websites. 
 

@@ -1,7 +1,7 @@
 # Lisa M. Durante
 
 
-Seattle, WA | 760.917.1661 | [lmdurante@gmail.com](mailto:lmdurante@gmail.com) | [linkedin.com/in/lmdurante](https://www.linkedin.com/in/lmdurante) | [lisamdurante.com](https://www.lisamdurante.com)
+Seattle, WA • 760.917.1661 • [lmdurante@gmail.com](mailto:lmdurante@gmail.com) • [linkedin.com/in/lmdurante](https://www.linkedin.com/in/lmdurante) • [lisamdurante.com](https://www.lisamdurante.com)
 
 Passionate and curious senior graphic designer with 10 years of experience creating meaningful experiences through design. Delivering strategic corporate brand and storytelling through visual and interactive design to internal and external audiences. Proven ability to collaborate across teams and departments to communicate creative ideas, including compelling storytelling, providing sketches and prototypes, and creating fully rendered designs. Works on a wide range of project types cross-functionally, identifying potential problems and developing design solutions for both internal and external facing deliverables.
 

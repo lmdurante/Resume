@@ -90,12 +90,13 @@ Worked vigorously to deliver top-notch marketing collateral for 80+ real estate 
   <dt>Digital Strategy, Design for Web, UX Design, and Design for Apps • 2015 - 2017</dt>
   <dd>San Diego Portfolio Studio – San Diego, CA</dd>
 
-  <dt>Bachelor of Science, Industrial Design & Bachelor of Arts in Fine Arts • 06/2010</dt>
+  <dt>Bachelor of Science in Industrial Design & Bachelor of Arts in Fine Arts • 2004 - 2010</dt>
   <dd>San Francisco State University – San Francisco, CA</dd>
 
-  <dt>Industrial Design & technology • 2008 - 2009</dt>
+  <dt>Industrial Design & Technology • 2008 - 2009</dt>
   <dd>Brunel University – West London, England (exchange Program)</dd>
 </dl>
+
 
 ## AWARD
 <dl>

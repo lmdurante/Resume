@@ -75,7 +75,7 @@ Worked vigorously to deliver top-notch marketing collateral for 80+ real estate 
 <summary><strong>DETAILS</strong></summary>
   <ul>
     <li>Received <strong>Team Player of the Year in 2012 and 2015</strong>, which is awarded to the staff member who exceeds expectations in the performance of daily responsibilities, while demonstrating the valued qualities of customer service, teamwork, and dependability</li>
-     <li>Learned how to create interactive SWF presentations and pitches—became only person on the team who could</li>
+     <li>Learned how to create interactive SWF presentations and pitches</li>
      <li>Conducted trainings on the Adobe Creative Suite and created training sheets for staff on InDesign, printing production, email blasts, and interactive files</li>
   </ul>
 </details>

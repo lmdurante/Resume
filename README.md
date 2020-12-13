@@ -48,7 +48,7 @@ Leads development of creative strategy and organizational vision for a 180-attor
     <li><strong>Promoted to Senior Graphic Designer December 2019</strong> after serving as Graphic Designer for two years.</li>
  </ul>
 </details>
-<br>
+
 
 
 
@@ -67,6 +67,10 @@ Spearheaded the development of marketing processes and established design standa
   </ul>
 </details>
 
+
+
+
+
 ### Retail Insite, San Diego, CA • Senior Graphic Designer • Contract • *(08/2015) - (02/2016)*
 Worked to move the brand forward and help the firm better serve their clients. Researched, drafted, and created new marketing collateral to achieve a stronger, more valuable, and trusted brand.
 
@@ -80,7 +84,10 @@ Worked vigorously to deliver top notch marketing collateral for over 80 real est
      <li>Conducted trainings on the Adobe Creative Suite and created training sheets for staff on InDesign, printing production, email blasts, and interactive files</li>
   </ul>
 </details>
-   
+
+
+
+
 
 ## EDUCATION & CREDENTIALS
 <dl>

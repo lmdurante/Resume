@@ -85,7 +85,7 @@ Worked vigorously to deliver top-notch marketing collateral for 80+ real estate 
 ## EDUCATION & CREDENTIALS
 <dl>
   <dt>User Experience Design • 01/2020</dt>
-  <dd>General Assembly – Seattle, WA</dt>
+  <dd>General Assembly – Seattle, WA</dd>
 
   <dt>Digital Strategy, Design for Web, UX Design, and Design for Apps • 2015 - 2017</dt>
   <dd>San Diego Portfolio Studio – San Diego, CA</dd>
@@ -95,7 +95,7 @@ Worked vigorously to deliver top-notch marketing collateral for 80+ real estate 
 
   <dt>Industrial Design & Technology • 2008 - 2009</dt>
   <dd>Brunel University – West London, England (exchange Program)</dd>
-
+</dl>
 
 
 ## AWARD
